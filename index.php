@@ -5,13 +5,13 @@
 <head>
 
 <title></title>
-
+<link rel="stylesheet" type="text/css" href="index.css">
 </head>
 
 
 <body>
 
-<div>christian aguilar hilado</div>
+<div class="name">christian aguilar hilado</div>
 
 </body>
 
