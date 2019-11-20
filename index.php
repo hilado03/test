@@ -9,9 +9,9 @@
 </head>
 
 
-<body>
+<body bgcolor="maroon">
 
-<div class="name">christian aguilar hilado</div>
+<div class="name">Christian Aguilar Hilado</div>
 
 </body>
 
